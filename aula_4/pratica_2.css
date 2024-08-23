@@ -1,0 +1,21 @@
+body {
+    background-image: url("C:/Users/1022581/Documents/desenvolvimento_web_2024/imagens/fundo_2.jpg");
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    vertical-align: middle;
+}
+
+fieldset {
+    background-color: rgb(224, 224, 224);
+}
+
+.div_1 {
+    background-color: rgb(77, 77, 190);
+    margin:1em;
+}
+.div_2, .div_3 {
+    background-color: gray;
+    margin:1em;
+}
+

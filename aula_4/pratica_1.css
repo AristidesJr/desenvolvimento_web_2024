@@ -1,0 +1,12 @@
+fieldset {
+    background-color: rgb(224, 224, 224);
+}
+
+.div_1 {
+    background-color: rgb(77, 77, 190);
+    margin:1em;
+}
+.div_2, .div_3 {
+    background-color: gray;
+    margin:1em;
+}
