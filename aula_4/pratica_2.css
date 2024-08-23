@@ -8,6 +8,7 @@ body {
 
 fieldset {
     background-color: rgb(224, 224, 224);
+    background-repeat: repeat-y;
 }
 
 .div_1 {
