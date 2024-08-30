@@ -17,10 +17,11 @@ function addOperacao(oAcao) {
     let iValor = oAcao.value;
     let sDisplay = document.getElementById('display').innerHTML;
 
-    let sUltimaLetra = iDisplay.slice(-1);
+    let sUltimaLetra = sDisplay.slice(-1);
 
     if(operador.includes(sUltimaLetra)) {
-
+        sDisplay.length
+        sDisplay.replace(/.$/, iValor)
     }
 
 }
