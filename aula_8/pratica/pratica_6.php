@@ -6,6 +6,7 @@
 //     'Média'       => [8.5, 9, 6, 8]
 //  ]
 
+
  $aDiario = [
     'titulos'     => ['Disciplinas', 'Faltas', 'Média'],
     'matematica'  => ['Matemática', 5, 8.2],
