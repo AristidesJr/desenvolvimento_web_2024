@@ -1,2 +1,3 @@
 <?php 
-require_once('../pratica_2/pratica_2.php');
+require_once('../desenvolvimento_web_2024/conexao_database/conexao_pg_connect.php');
+
