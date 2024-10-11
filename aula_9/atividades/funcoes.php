@@ -15,5 +15,9 @@ function isDivisivelPor(int $iDivisor, int $iDividendo) {
     return $iResto == 0;
 }
 
+function calculaValorJuros($iQuantidadeParcela, $iValorParcela, $iValorVista) {
+   return $iQuantidadeParcela * $iValorParcela - $iValorVista;
+}
+
 
 ?>
